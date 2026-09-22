@@ -1,4 +1,4 @@
-class Employee 
+publec class Employee 
 {
     int id;
     String name;
